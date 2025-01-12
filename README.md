@@ -1,0 +1,1 @@
+Este projeto é um aplicativo JavaScript que pode ser rodado individualmente em cada arquivo, utilizando o ambiente de execução Node.js. Basta navegar até o diretório do arquivo desejado e executar o comando node nome_do_arquivo.js no terminal.
